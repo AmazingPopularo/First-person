@@ -1,3 +1,3 @@
 # First-person
-this is basically for first person movement, and the code from my youtube videos on FPS will be here
-If you want to donate: 
+#this is basically for first person movement, and the code from my youtube videos on FPS will be here#
+  If you want to donate: youtube.com
